@@ -1,2 +1,2 @@
 # renukapaturkar-portfolio
- personal portfolio (neog,camp project)
+This is my personal portfolio I am building.
